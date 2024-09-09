@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Adionov&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adionov&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Adionov&label=Programmers&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

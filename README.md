@@ -1,7 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/about-20735.appspot.com/o/2000_600px.gif?alt=media&token=952a25ae-8e28-431c-9f70-9eb9ba6f7576)]()
 <h1 align="center">Hi 👋, I'm Adionov</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/about-20735.appspot.com/o/Frame%202.jpg?alt=media&token=dec1348d-8b8d-452f-8fcb-321063be5902">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noyboltstudio&label=Profile%20views&color=0e75b6&style=flat" alt="noyboltstudio" /> </p>
 
